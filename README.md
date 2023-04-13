@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on machine learning, deep learning, electronic, and programming... .
 - 🌱 I’m currently learning everything
 - 👯 I'm eager to collaborate on
-- ⚡ Fun fact: you can't
+- ⚡ Fun fact: you can't...
 
 <!--
 **Alireza-Khajehvandi/Alireza-Khajehvandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
