@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 style="font-size: 80px">I'm Alireza Khajehvandi.</h1>
+<h1>I'm Alireza Khajehvandi.</h1>
 <!--
 **Alireza-Khajehvandi/Alireza-Khajehvandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
