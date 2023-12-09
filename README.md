@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1>I'm Alireza Khajehvandi.</h1>
 
-<h3>
+
   Hello, I'm Alireza Khajehvandi, an <span>AI</span> And
   <span>Machine Learning</span> Expert with
   <span>Embedded Systems</span> Proficiency. I've worked on diverse
@@ -12,7 +12,7 @@
   <span>Machine Learning</span>. Let's connect and collaborate for
   innovative solutions.
 <!--   <a href="{% url 'resume_index' %}#about">more about me.</a> -->
-</h3>
+
 <!--
 **Alireza-Khajehvandi/Alireza-Khajehvandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
